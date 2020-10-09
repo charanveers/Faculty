@@ -53,7 +53,7 @@ class _RowHomeState extends State<RowHome> {
                  margin: EdgeInsets.symmetric(horizontal: 18),
                  child: Column(
                    mainAxisAlignment: MainAxisAlignment.start,
-                   children: [g
+                   children: [
                      Align(
                        alignment: Alignment.topLeft,
                        child: Text(

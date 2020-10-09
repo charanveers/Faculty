@@ -159,7 +159,6 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Widget rowWidget() {
     return Container(
-
         child: Container(
           width: double.infinity,
           margin: const EdgeInsets.only(top: 10.0, left: 15, right: 15),
